@@ -1,2 +1,2 @@
-# Motifcloud
-Motif cloud from DNA/RNA/Protein Sequences
+# VisMotif
+Motif visualization from DNA/RNA/Protein Sequences
