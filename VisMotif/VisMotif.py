@@ -1,3 +1,6 @@
+# Author: HMM <hmmpython@gmail.com>
+# Copyright 2015
+# License: See License file
 import os
 import re
 import sys
