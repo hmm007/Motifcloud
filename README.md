@@ -10,9 +10,9 @@ Install the package:
 
 #Requirement
 
-Cython>=0.19.1
-Image>=1.1.7
-numpy>=1.7.1
+- Cython>=0.19.1
+- Image>=1.1.7
+- numpy>=1.7.1
 
 #License
 
