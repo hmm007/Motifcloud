@@ -4,9 +4,9 @@ Motif visualization from DNA/RNA/Protein Sequences
 #How to setup
 
 Install the package:
-'''
+```
   python setup.py install
-'''
+```
 
 #Requirement
 
