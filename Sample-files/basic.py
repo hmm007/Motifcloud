@@ -10,7 +10,7 @@ from wordcloud import VisMotif
 d = path.dirname(__file__)
 
 # Read the whole text.
-tex = open(path.join(d, 'constitution.txt')).read()
+tex = open(path.join(d, 'motif.txt')).read()
 
 
 motifcloud = VisMotif().generate(tex)
